@@ -14,6 +14,9 @@ I developed a comprehensive project in Power Bi, Creating a multiple dashboards 
 - Online Sales: Online channels dominate the sales landscape, highlighting the importance of e-commerce platforms and digital marketing strategies.
 - Shipping Methods: Analyzing shipping methods can reveal preferences and optimize logistics.
 - Payment Methods: Tracking payment methods can inform decisions on payment processing and fraud prevention.
+## Dashboard-Images
+![Dashboard-1](https://github.com/user-attachments/assets/8074bc49-c04b-4064-8057-095b44e9686b)
+![Dashboard-2](https://github.com/user-attachments/assets/2bd9cde9-5412-4282-87fa-f8ca6ad26aad)
 ## Final Conclusion:
 The Christmas Sales and Trends Dashboard from [2018-2023] delivers vital insights to enhance business performance during the holiday season. The Christmas sales dashboards reveal a positive trend for 2023, with a total of 1.65 million & 30k products are sold-out in sales, exceeding previous years. Online sales continue to dominate, accounting for a significant portion of transactions. Gender analysis indicates that males accounted for 33.35% of total sales, while females contributed 33.18%. The breakdown by age range shows that the 41-55 age group contributed the most to sales, while the 55-70 age group had the highest average transaction value. Electronics, Toys remained the top-selling category, followed by food and decorations. Promotions played a significant role, with a higher average transaction value for items with promotions applied.
 The data suggests that focusing on online sales channels and offering targeted promotions for high-demand categories will be key for future success. Additionally, leveraging data analytics to understand customer preferences and optimize inventory management will be crucial for maximizing sales during the holiday season.
